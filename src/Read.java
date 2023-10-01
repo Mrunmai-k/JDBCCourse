@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class DemoJDBC {
+public class Read {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         /*
         * import package
